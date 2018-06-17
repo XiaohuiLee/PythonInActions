@@ -1,12 +1,6 @@
 # Python数据挖掘&实战
 ## 目录
 - [第六章](#第六章)
-    - [拉格朗日插值](#拉格朗日插值)
-    - [保存文件](#保存文件)
-    - [train, test的split](#train-test的split)
-    - [keras建立神经网络](#keras建立神经网络)
-    - [Confusion matrix](#confusion-matrix)
-    - [决策树模型](#决策树模型)
 - [第七章](#第七章)
 - [第八章](#第八章)
 - [第九章](#第九章)
