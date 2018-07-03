@@ -1,26 +1,16 @@
 Python数据挖掘与实战
+
 <!-- TOC -->
 
-- [第六章](#第六章)
-    - [拉格朗日插值](#拉格朗日插值)
-    - [保存文件](#保存文件)
-    - [train, test的split](#train-test的split)
-    - [keras建立神经网络](#keras建立神经网络)
-    - [Confusion matrix](#confusion-matrix)
-    - [决策树模型](#决策树模型)
-- [第七章](#第七章)
-- [第八章](#第八章)
-- [第九章](#第九章)
-- [第十章](#第十章)
-- [第十一章](#第十一章)
-- [第十二章](#第十二章)
-- [第十三章](#第十三章)
-- [第十四章](#第十四章)
-- [第十五章](#第十五章)
+- [拉格朗日插值](#拉格朗日插值)
+- [保存文件](#保存文件)
+- [train, test的split](#train-test的split)
+- [keras建立神经网络](#keras建立神经网络)
+- [Confusion matrix](#confusion-matrix)
+- [决策树模型](#决策树模型)
 
 <!-- /TOC -->
 
-# 第六章
 ## 拉格朗日插值
 ```python
 from scipy.interpolate import lagrange
@@ -73,13 +63,3 @@ ytest_predict = tree.predict_proba(xtest)[:,1]
 # 3、评分
 tree.score(xtest, ytest)
 ```
-
-# 第七章
-# 第八章
-# 第九章
-# 第十章
-# 第十一章
-# 第十二章
-# 第十三章
-# 第十四章
-# 第十五章
