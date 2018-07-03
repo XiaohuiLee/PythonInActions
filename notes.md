@@ -1,4 +1,4 @@
-Python数据挖掘与实战
+Python数据挖掘与实战-Chapter6
 
 <!-- TOC -->
 
